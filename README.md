@@ -13,8 +13,8 @@ https://canaltech.com.br/redes-sociais/saiba-como-imprimir-conversas-do-whatsapp
   
   
 ## WordCloud com apenas com substantivos e adjetivos.  
-![alt text](https://github.com/[kennynakamura]/[WordCloudConversaWhatsApp]/blob/[main]/WordCloud_SUB_ADJ.png?raw=true)
+![alt text](https://github.com/kennynakamura/WordCloudConversaWhatsApp/blob/main/WordCloud_SUB_ADJ.png?raw=true)
   
   
 ## WordCloud com todas as palavras.  
-![alt text](https://github.com/[kennynakamura]/[WordCloudConversaWhatsApp]/blob/[main]/wordcloud.png?raw=true)
+![alt text](https://github.com/kennynakamura/WordCloudConversaWhatsApp/blob/main/wordcloud.png?raw=true)
